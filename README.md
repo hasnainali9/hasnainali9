@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hasnainali9
 - 👀 I’m interested in learning new Technologies
-- 🌱 I’m currently learning React with node js...
-- 📫 If you want to contact me drop a message on my email hasnain01022000@gmail.com
+- 🌱 I’m currently learning Next js...
+- 📫 If you want to contact me drop a message on my email hasnainali@lightningitsolution.pk
 
 <!---
 hasnainali9/hasnainali9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
