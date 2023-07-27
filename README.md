@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hasnainali9
 - 👀 I’m interested in learning new Technologies
-- 🌱 I’m currently learning Next js...
-- 📫 If you want to contact me drop a message on my email hasnainali@lightningitsolution.pk
+- 🌱 I’m currently learning Three js...
+- 📫 If you want to contact me drop a message on my email hasnainali@devendsol.com
 
 <!---
 hasnainali9/hasnainali9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
