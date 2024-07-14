@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Hasnain
 - 👀 I’m interested in learning new Technologies
-- 📫 If you want to contact me drop a message on my email hasnainali@devendsol.com or just buy me a coffe https://bmc.link/hasnainali9
+- 📫 If you want to contact me drop a message on my email me@hasnainali9.com or just buy me a coffe https://bmc.link/hasnainali9
